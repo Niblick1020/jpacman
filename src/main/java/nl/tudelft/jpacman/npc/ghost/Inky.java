@@ -28,6 +28,7 @@ import java.util.*;
  * </p>
  *
  * @author Jeroen Roosen
+ *
  */
 public class Inky extends Ghost {
 
